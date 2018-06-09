@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+  
+body{
+    background:url("#");
+    background-size: 100%;
+    background-color: grey;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+header {
+    width: 100%;
+    max-width: 600px;
+    background-color:beige; opacity: .7;
+    margin: 0 auto;
+    clear: both;
+    margin-bottom: 50px;
+    
+}
+
+.container {
+    width: 100%;
+    max-width: 560px;
+    margin: 0 auto;
+    clear: both;
+    background-color: white; opacity: .7;
+    
+}
